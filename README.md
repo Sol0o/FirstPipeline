@@ -1,5 +1,4 @@
 [![Build Status](https://dev.azure.com/ritiksharma0935/First%20Pipeline/_apis/build/status/Sol0o.FirstPipeline?branchName=master)](https://dev.azure.com/ritiksharma0935/First%20Pipeline/_build/latest?definitionId=2&branchName=master)
-
 # Java Sample Code for the Authorize.Net SDK
 [![Travis CI Status](https://travis-ci.org/AuthorizeNet/sample-code-java.svg?branch=master)](https://travis-ci.org/AuthorizeNet/sample-code-java)
 
